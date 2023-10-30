@@ -1,0 +1,21 @@
+{
+  "name": "sweatworks",
+  "version": "1.0.0",
+  "description": "Tech Interview for SweatWorks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "JS",
+    "Web",
+    "Automation"
+  ],
+  "author": "Gian Herrera",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
